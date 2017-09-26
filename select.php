@@ -4,6 +4,10 @@ $servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "mydb";
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "mydb";
 
 $myarray=array();
 
